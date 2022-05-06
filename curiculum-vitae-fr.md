@@ -1,5 +1,5 @@
 # Xavier Péchot
-![photo de profil](asset/profile.png "Photo de profil")
+![photo de profil](https://cdn.filestackcontent.com/ApSL9HZDXQFeLkhQqoOgxz/resize=width:200/cache=expiry:max/compress/https://github.com/xavierp/curriculum-vitae/raw/main/asset/profile.png "Photo de profil")
 ## Profil
 Autodidacte et constamment en quête de nouvelles compétences, fort de plus de 10 ans
 d’expérience dans le développement de logiciels et les technologies du web, je suis
