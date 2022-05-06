@@ -12,7 +12,7 @@ aujourd’hui à la recherche de nouveaux défis professionnels.
 
 
 ## Experiences professionnelles
-### *Chronotruck - Groupe Gefco*
+### *Chronotruck - Groupe Gefco / CMA CGM*
 
 > [Chronotruck](https://chronotruck.fr) est une plateforme B2B mettant en relation transporteurs et expéditeur grace à une plateforme simple et intuitive ainsi qu'à l’intelligence artificielle. Acquis en 2019 par [Gefco](https://www.gefco.net/fr/a-propos-de-gefco/decouvrir/groupe/), aujourd’hui membre de [CMA CGM](https://www.cma-cgm.com/about/the-group) via sa filiale [CEVA Logistics](https://www.cevalogistics.com/fr), Chronotruck représente le fer de lance de la transformation digital du groupe.
 
@@ -20,7 +20,7 @@ aujourd’hui à la recherche de nouveaux défis professionnels.
 _Septembre 2020 - Août 2022_
 -- @todo
 
-### *dgBirds - Groupe AirFrance*
+### *dgBirds - Groupe Air France KLM*
 > [dgBirds](https://www.dgbirds.com) est une startup du groupe [Air France KLM](https://www.airfranceklm.com/fr/groupe) commercialisant une solution SaaS de gestion et de distribution documentaire (GED) à destination des pilotes, des compagnies aériennes et des industries du transport.
 #### CTO consultant
 _Juin 2017 - Avril 2019_
@@ -51,7 +51,7 @@ Représentation de l’entreprise :
 - Accompagnement des équipes techniques lors de la migration et de l’installation des services
 - Assistance technique et support
 
-### *Adopte*
+### *AdopteUnMec - GEB AdoptAGuy*
 
 > [AdopteUnMec.com](https://www.adopteunmec.com/) est un site de rencontre comptant plus de 12 millions d’inscrits en France et present dans 11 pays en Europe et en Amérique Latine.
 #### Head of Data
