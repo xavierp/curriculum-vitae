@@ -18,7 +18,24 @@ aujourd’hui à la recherche de nouveaux défis professionnels.
 
 #### VP of Engineering
 _Septembre 2020 - Août 2022_
--- @todo
+
+Management d'une équipe de 6 personnes :
+- instauration de méthodes managériales : servent management, entretien réguliers, etc ...
+- mentoring individuel et collectif : suivi et objectifs personnels, roadmap individuel
+- recrutement : test technique, cultural feat, onboarding
+
+Gestion des infrastructures et de la production :
+- mise en place d'outils de monitoring (Datadog);
+- migration des applications vers des conteneurs;
+- améliorations et accélération des processus d'intégration continue et de déploiement;
+- évolution des systèmes existant vers de l'infrastructure as code;
+
+Organisation du travail:
+- Création des roadmap technique et infrastructure;
+- Gestion projet en lien avec le groupe et des prestataires externe;
+- Accompagnement des équipes de développement quant aux choix techniques;
+- Mise en place de nouvelles pratiques et outils: ADR, RFC, technical sprints, Architecture Hexagonale ...;
+
 
 ### *dgBirds - Groupe Air France KLM*
 > [dgBirds](https://www.dgbirds.com) est une startup du groupe [Air France KLM](https://www.airfranceklm.com/fr/groupe) commercialisant une solution SaaS de gestion et de distribution documentaire (GED) à destination des pilotes, des compagnies aériennes et des industries du transport.
