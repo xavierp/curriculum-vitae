@@ -90,6 +90,73 @@ Développement de la plateforme et de l'infrastructure MassagePrivée.com (PHP, 
 Prospection de clients et de partenaires.
 
 ## Compétences
--- @todo
+### Language de programmation
+| Competence | Niveau |
+|---|---|
+PHP |        :large_blue_diamond::large_blue_diamond::large_blue_diamond::large_blue_diamond::large_blue_diamond:
+NodeJS |     :large_blue_diamond::large_blue_diamond::large_blue_diamond::large_blue_diamond::small_blue_diamond:
+TypeScript | :large_blue_diamond::large_blue_diamond::large_blue_diamond::large_blue_diamond::small_blue_diamond:
+Rust |       :large_blue_diamond::large_blue_diamond::large_blue_diamond::small_blue_diamond::small_blue_diamond:
+Clojure |    :large_blue_diamond::large_blue_diamond::small_blue_diamond::small_blue_diamond::small_blue_diamond:
+### Frameworks
+| Competence | Niveau |
+|---|---|
+Symfony | :large_blue_diamond::large_blue_diamond::large_blue_diamond::large_blue_diamond::large_blue_diamond:
+Laravel | :large_blue_diamond::large_blue_diamond::large_blue_diamond::small_blue_diamond::small_blue_diamond:
+NestJS |  :large_blue_diamond::large_blue_diamond::large_blue_diamond::large_blue_diamond::small_blue_diamond:
+VueJS |   :large_blue_diamond::large_blue_diamond::large_blue_diamond::small_blue_diamond::small_blue_diamond:
+React |   :large_blue_diamond::large_blue_diamond::large_blue_diamond::small_blue_diamond::small_blue_diamond:
+Flutter | :large_blue_diamond::large_blue_diamond::small_blue_diamond::small_blue_diamond::small_blue_diamond:
+
+### Bases de données et broker
+| Competence | Niveau |
+|---|---|
+Mysql |         :large_blue_diamond::large_blue_diamond::large_blue_diamond::large_blue_diamond::large_blue_diamond:
+Postgresql |    :large_blue_diamond::large_blue_diamond::large_blue_diamond::large_blue_diamond::large_blue_diamond:
+MongoDB |       :large_blue_diamond::large_blue_diamond::large_blue_diamond::large_blue_diamond::small_blue_diamond:
+Cassandra |     :large_blue_diamond::large_blue_diamond::large_blue_diamond::large_blue_diamond::small_blue_diamond:
+ElasticSearch | :large_blue_diamond::large_blue_diamond::large_blue_diamond::large_blue_diamond::small_blue_diamond:
+RabbitMQ |      :large_blue_diamond::large_blue_diamond::large_blue_diamond::large_blue_diamond::large_blue_diamond:
+Kafka |         :large_blue_diamond::large_blue_diamond::large_blue_diamond::small_blue_diamond::small_blue_diamond:
+
+### Infrastructure
+| Competence | Niveau |
+|---|---|
+Terraform |    :large_blue_diamond::large_blue_diamond::large_blue_diamond::large_blue_diamond::small_blue_diamond:
+Pulumi |       :large_blue_diamond::large_blue_diamond::small_blue_diamond::small_blue_diamond::small_blue_diamond:
+Ansible |      :large_blue_diamond::large_blue_diamond::large_blue_diamond::large_blue_diamond::small_blue_diamond:
+Vault |        :large_blue_diamond::large_blue_diamond::small_blue_diamond::small_blue_diamond::small_blue_diamond:
+Docker Swarm | :large_blue_diamond::large_blue_diamond::large_blue_diamond::large_blue_diamond::small_blue_diamond:
+Kubernetes |   :large_blue_diamond::large_blue_diamond::large_blue_diamond::small_blue_diamond::small_blue_diamond:
+### Cloud
+| Competence | Niveau |
+|---|---|
+AWS Cloud |             :large_blue_diamond::large_blue_diamond::large_blue_diamond::large_blue_diamond::large_blue_diamond:
+Digital Ocean cloud |   :large_blue_diamond::large_blue_diamond::large_blue_diamond::large_blue_diamond::large_blue_diamond:
+Google Cloud Platform|  :large_blue_diamond::large_blue_diamond::large_blue_diamond::small_blue_diamond::small_blue_diamond:
+Microsoft Azure Cloud | :large_blue_diamond::large_blue_diamond::small_blue_diamond::small_blue_diamond::small_blue_diamond:
+
+### Data
+| Competence | Niveau |
+|---|---|
+Airflow |  :large_blue_diamond::large_blue_diamond::large_blue_diamond::large_blue_diamond::small_blue_diamond:
+Metabase | :large_blue_diamond::large_blue_diamond::large_blue_diamond::large_blue_diamond::small_blue_diamond:
+Superset | :large_blue_diamond::large_blue_diamond::large_blue_diamond::small_blue_diamond::small_blue_diamond:
+Spark |    :large_blue_diamond::large_blue_diamond::small_blue_diamond::small_blue_diamond::small_blue_diamond:
+Dataiku |  :large_blue_diamond::large_blue_diamond::small_blue_diamond::small_blue_diamond::small_blue_diamond:
+Kibana |   :large_blue_diamond::large_blue_diamond::large_blue_diamond::small_blue_diamond::small_blue_diamond:
+
+
+
+### Management
+
 ## Centres d’intérêt
--- @todo
+- Ski & free ski
+- Escalade
+- Boxe française
+- Plongée sous marine (FFESSM niv. 1)
+- Nautisme (permis de plaisance option côtière et extension hauturière)
+- Musique : MAO, Piano
+- Électronique
+- Jeux vidéo
+- Cuisine
