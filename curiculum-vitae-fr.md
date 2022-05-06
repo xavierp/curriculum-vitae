@@ -3,7 +3,7 @@
 ## Profil
 Autodidacte et constamment en quête de nouvelles compétences, fort de plus de 10 ans
 d’expérience dans le développement de logiciels et les technologies du web, je suis
-aujourd’hui à la recherche de nouveaux défis professionnels
+aujourd’hui à la recherche de nouveaux défis professionnels.
 
 ### Contact
 - [xavp75@gmail.com](mailto:xavp75@gmail.com)
@@ -14,15 +14,14 @@ aujourd’hui à la recherche de nouveaux défis professionnels
 ## Experiences professionnelles
 ### *Chronotruck - Groupe Gefco*
 
-[Chronotruck](https://chronotruck.fr) est une plateforme B2B mettant en relation transporteurs et expéditeur grace à une plateforme simple et intuitive ainsi qu'a l’intelligence artificielle.
+> [Chronotruck](https://chronotruck.fr) est une plateforme B2B mettant en relation transporteurs et expéditeur grace à une plateforme simple et intuitive ainsi qu'à l’intelligence artificielle. Acquis en 2019 par [Gefco](https://www.gefco.net/fr/a-propos-de-gefco/decouvrir/groupe/), aujourd’hui membre de [CMA CGM](https://www.cma-cgm.com/about/the-group) via sa filiale [CEVA Logistics](https://www.cevalogistics.com/fr), Chronotruck représente le fer de lance de la transformation digital du groupe.
 
 #### VP of Engineering
 _Septembre 2020 - Août 2022_
 -- @todo
 
 ### *dgBirds - Groupe AirFrance*
-[dgBirds](https://www.dgbirds.com) est une startup du groupe Air France commercialisant une solution SaaS de gestion et de
-distribution documentaire (GED) à destination des pilotes, des compagnies aériennes et des industries du transport.
+> [dgBirds](https://www.dgbirds.com) est une startup du groupe [Air France KLM](https://www.airfranceklm.com/fr/groupe) commercialisant une solution SaaS de gestion et de distribution documentaire (GED) à destination des pilotes, des compagnies aériennes et des industries du transport.
 #### CTO consultant
 _Juin 2017 - Avril 2019_
 
@@ -52,7 +51,9 @@ Représentation de l’entreprise :
 - Accompagnement des équipes techniques lors de la migration et de l’installation des services
 - Assistance technique et support
 
-### *AdopteUnMec*
+### *Adopte*
+
+> [AdopteUnMec.com](https://www.adopteunmec.com/) est un site de rencontre comptant plus de 12 millions d’inscrits en France et present dans 11 pays en Europe et en Amérique Latine.
 #### Head of Data
 _Juin 2013 - Juin 2017_
 
@@ -81,7 +82,7 @@ Développement de la plateforme :messagerie, systèmes de paiements, back-office
 
 ### *MassagePrivé.com*
 
-Plateforme de mise en relation de professionnels et de particuliers pour la réservation de massages et de soins bien-être.
+> Plateforme de mise en relation de professionnels et de particuliers pour la réservation de massages et de soins bien-être.
 #### CEO, CTO & Co-Founder
 _Sept 2013 - Août 2015_
 
