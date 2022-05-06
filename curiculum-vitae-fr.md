@@ -1,4 +1,5 @@
 # Xavier Péchot
+![photo de profil](asset/profile.png "Photo de profil")
 ## Profil
 Autodidacte et constamment en quête de nouvelles compétences, fort de plus de 10 ans
 d’expérience dans le développement de logiciels et les technologies du web, je suis
@@ -8,6 +9,7 @@ aujourd’hui à la recherche de nouveaux défis professionnels
 - [xavp75@gmail.com](mailto:xavp75@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/xavierpechot/)
 - [Github](https://github.com/xavierp)
+
 
 ## Experiences professionnelles
 ### *Chronotruck - Groupe Gefco*
