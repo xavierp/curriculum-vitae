@@ -97,7 +97,7 @@ Développement de la plateforme (PHP):
 - messagerie entre utilisateurs à haute scalabilité,
 - systèmes de paiements CB, SEPA et micropaiement,
 - back-office interne,
-- système de modération des contenus, etc ... (PHP, CodeIgniter)
+- système de modération des contenus
 
 ### *MassagePrivé.com*
 
@@ -111,64 +111,28 @@ Prospection de clients et de partenaires.
 
 
 ## Compétences
-### Language de programmation
-| Competence | Niveau |
-|---|---|
-PHP |        :large_blue_diamond::large_blue_diamond::large_blue_diamond::large_blue_diamond::large_blue_diamond:
-NodeJS |     :large_blue_diamond::large_blue_diamond::large_blue_diamond::large_blue_diamond::small_blue_diamond:
-TypeScript | :large_blue_diamond::large_blue_diamond::large_blue_diamond::large_blue_diamond::small_blue_diamond:
-Rust |       :large_blue_diamond::large_blue_diamond::large_blue_diamond::small_blue_diamond::small_blue_diamond:
-Clojure |    :large_blue_diamond::large_blue_diamond::small_blue_diamond::small_blue_diamond::small_blue_diamond:
-### Frameworks
-| Competence | Niveau |
-|---|---|
-Symfony | :large_blue_diamond::large_blue_diamond::large_blue_diamond::large_blue_diamond::large_blue_diamond:
-Laravel | :large_blue_diamond::large_blue_diamond::large_blue_diamond::small_blue_diamond::small_blue_diamond:
-NestJS |  :large_blue_diamond::large_blue_diamond::large_blue_diamond::large_blue_diamond::small_blue_diamond:
-VueJS |   :large_blue_diamond::large_blue_diamond::large_blue_diamond::small_blue_diamond::small_blue_diamond:
-React |   :large_blue_diamond::large_blue_diamond::large_blue_diamond::small_blue_diamond::small_blue_diamond:
-Flutter | :large_blue_diamond::large_blue_diamond::small_blue_diamond::small_blue_diamond::small_blue_diamond:
 
-### Bases de données et broker
-| Competence | Niveau |
-|---|---|
-Mysql |         :large_blue_diamond::large_blue_diamond::large_blue_diamond::large_blue_diamond::large_blue_diamond:
-Postgresql |    :large_blue_diamond::large_blue_diamond::large_blue_diamond::large_blue_diamond::large_blue_diamond:
-MongoDB |       :large_blue_diamond::large_blue_diamond::large_blue_diamond::large_blue_diamond::small_blue_diamond:
-Cassandra |     :large_blue_diamond::large_blue_diamond::large_blue_diamond::large_blue_diamond::small_blue_diamond:
-ElasticSearch | :large_blue_diamond::large_blue_diamond::large_blue_diamond::large_blue_diamond::small_blue_diamond:
-RabbitMQ |      :large_blue_diamond::large_blue_diamond::large_blue_diamond::large_blue_diamond::large_blue_diamond:
-Kafka |         :large_blue_diamond::large_blue_diamond::large_blue_diamond::small_blue_diamond::small_blue_diamond:
+### Techniques
+- Développement d'applications et de plateformes web
+- Creation d'architectures logiciels scalables
+- Administration de systems et serveurs *NIX
+- Déploiement d’infrastructures Cloud à haute disponibilité
+- Conception de models de données relationnelles
+- Diffusion, stockage et mise à disposition de pipelines de données
 
-### Infrastructure
-| Competence | Niveau |
-|---|---|
-Terraform |    :large_blue_diamond::large_blue_diamond::large_blue_diamond::large_blue_diamond::small_blue_diamond:
-Pulumi |       :large_blue_diamond::large_blue_diamond::small_blue_diamond::small_blue_diamond::small_blue_diamond:
-Ansible |      :large_blue_diamond::large_blue_diamond::large_blue_diamond::large_blue_diamond::small_blue_diamond:
-Vault |        :large_blue_diamond::large_blue_diamond::small_blue_diamond::small_blue_diamond::small_blue_diamond:
-Docker Swarm | :large_blue_diamond::large_blue_diamond::large_blue_diamond::large_blue_diamond::small_blue_diamond:
-Kubernetes |   :large_blue_diamond::large_blue_diamond::large_blue_diamond::small_blue_diamond::small_blue_diamond:
-### Cloud
-| Competence | Niveau |
-|---|---|
-AWS Cloud |             :large_blue_diamond::large_blue_diamond::large_blue_diamond::large_blue_diamond::large_blue_diamond:
-Digital Ocean cloud |   :large_blue_diamond::large_blue_diamond::large_blue_diamond::large_blue_diamond::large_blue_diamond:
-Google Cloud Platform|  :large_blue_diamond::large_blue_diamond::large_blue_diamond::small_blue_diamond::small_blue_diamond:
-Microsoft Azure Cloud | :large_blue_diamond::large_blue_diamond::small_blue_diamond::small_blue_diamond::small_blue_diamond:
+### Managériales & organisationnels
+- Organisation des équipes et du travail en amélioration continue
+- Utilisation des méthodes DevOps
+- Servent Leadership et culture du feedback
 
-### Data
-| Competence | Niveau |
-|---|---|
-Airflow |  :large_blue_diamond::large_blue_diamond::large_blue_diamond::large_blue_diamond::small_blue_diamond:
-Metabase | :large_blue_diamond::large_blue_diamond::large_blue_diamond::large_blue_diamond::small_blue_diamond:
-Superset | :large_blue_diamond::large_blue_diamond::large_blue_diamond::small_blue_diamond::small_blue_diamond:
-Spark |    :large_blue_diamond::large_blue_diamond::small_blue_diamond::small_blue_diamond::small_blue_diamond:
-Dataiku |  :large_blue_diamond::large_blue_diamond::small_blue_diamond::small_blue_diamond::small_blue_diamond:
-Kibana |   :large_blue_diamond::large_blue_diamond::large_blue_diamond::small_blue_diamond::small_blue_diamond:
-
-
-### Management
+### Générales
+- Adaptabilité et autonomie
+- Appétence pour les nouveaux défis
+- Travail en équipe
+- Leadership
+- Bon communiquant
+- Dynamique
+- Apprendre de ses pairs et partager ses connaissances
 
 ## Centres d’intérêt
 - Ski & free ski
