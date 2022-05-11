@@ -120,7 +120,7 @@ Prospection de clients et de partenaires.
 - Conception de models de données relationnelles
 - Diffusion, stockage et mise à disposition de pipelines de données
 
-### Managériales & organisationnels
+### Managériales & organisationnelles
 - Organisation des équipes et du travail en amélioration continue
 - Utilisation des méthodes DevOps
 - Servent Leadership et culture du feedback
