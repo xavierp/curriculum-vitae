@@ -1,9 +1,8 @@
 # Xavier Péchot
 ![photo de profil](https://cdn.filestackcontent.com/ApSL9HZDXQFeLkhQqoOgxz/resize=width:200/cache=expiry:max/compress/https://github.com/xavierp/curriculum-vitae/raw/main/asset/profile.png "Photo de profil")
 ## Profil
-Autodidacte et constamment en quête de nouvelles compétences, fort de plus de 10 ans
-d’expérience dans le développement de produits, de plateformes et d'infrastructures, je suis
-aujourd’hui à la recherche de nouveaux défis professionnels.
+Depuis plus de 10 je développe des plateformes et infrastructures pour les applications web et mobile.
+Mes différentes expériences: en startup ou pour des grands groupes, orienté B2B ou B2C, à fort traffic ou à haute disponibilité m'ont permis d’acquérir un large spectre de competences et une vision véritablement transversale
 
 ### Contact
 - [xavp75@gmail.com](mailto:xavp75@gmail.com)
