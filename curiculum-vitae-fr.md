@@ -10,6 +10,7 @@ aujourd’hui à la recherche de nouveaux défis professionnels.
 - [LinkedIn](https://www.linkedin.com/in/xavierpechot/)
 - [Github](https://github.com/xavierp)
 
+---
 
 ## Experiences professionnelles
 ### *Chronotruck - Groupe Gefco / CMA CGM*
@@ -36,6 +37,7 @@ Organisation du travail:
 - Accompagnement des équipes de développement quant aux choix techniques;
 - Mise en place de nouvelles pratiques et outils: ADR, RFC, technical sprints, Architecture Hexagonale ...;
 
+---
 
 ### *dgBirds - Groupe Air France KLM*
 > [dgBirds](https://www.dgbirds.com) est une startup du groupe [Air France KLM](https://www.airfranceklm.com/fr/groupe) commercialisant une solution SaaS de gestion et de distribution documentaire (GED) à destination des pilotes, des compagnies aériennes et des industries du transport.
@@ -68,6 +70,8 @@ Représentation de l’entreprise :
 - Accompagnement des équipes techniques lors de la migration et de l’installation des services;
 - Assistance technique et support;
 
+---
+
 ### *AdopteUnMec - GEB AdoptAGuy*
 
 > [AdopteUnMec.com](https://www.adopteunmec.com/) est un site de rencontre comptant plus de 12 millions d’inscrits en France et present dans 11 pays en Europe et en Amérique Latine.
@@ -89,7 +93,6 @@ Développement de l’entreprise à l’international :
 - Tarification des offres;
 - Optimisation des campagnes publicitaires TV et digitale;
 
-
 #### Software Engineer - AdopteUnMec
 _Juil 2011 - Juin 2013_
 
@@ -98,6 +101,8 @@ Développement de la plateforme (PHP):
 - systèmes de paiements CB, SEPA et micropaiement,
 - back-office interne,
 - système de modération des contenus
+
+---
 
 ### *MassagePrivé.com*
 
@@ -109,6 +114,7 @@ Constitution légale et administration de l'entreprise.
 Conception et développement de la plateforme et de l'infrastructure MassagePrivée.com (PHP, Symfony, MySQL).
 Prospection de clients et de partenaires.
 
+---
 
 ## Compétences
 
@@ -133,6 +139,8 @@ Prospection de clients et de partenaires.
 - Bon communiquant
 - Dynamique
 - Apprendre de ses pairs et partager ses connaissances
+
+---
 
 ## Centres d’intérêt
 - Ski & free ski
