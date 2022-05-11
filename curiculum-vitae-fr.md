@@ -12,12 +12,9 @@ Mes différentes expériences: en startup ou pour des grands groupes, orienté B
 ---
 
 ## Experiences professionnelles
-### *Chronotruck - Groupe Gefco / CMA CGM*
 
-> [Chronotruck](https://chronotruck.com) est acteur du transport et de la logistique mettant en relation transporteurs et expéditeur grace à une plateforme simple et intuitive ainsi qu'à l’intelligence artificielle. Acquis en 2019 par [Gefco](https://www.gefco.net/fr/a-propos-de-gefco/decouvrir/groupe/), aujourd’hui membre de [CMA CGM](https://www.cma-cgm.com/about/the-group) via sa filiale [CEVA Logistics](https://www.cevalogistics.com/fr), Chronotruck représente le fer de lance de la transformation digital du groupe.
-
-#### VP of Engineering
-_Septembre 2020 - Août 2022_
+### VP of Engineering  -  *Chronotruck (Groupe Gefco / CMA CGM)*
+*Septembre 2020 - Août 2022*
 
 Management d'une équipe de 6 personnes :
 - instauration de méthodes managériales : servent management, entretien réguliers, etc ...
@@ -36,12 +33,15 @@ Organisation du travail:
 - Accompagnement des équipes de développement quant aux choix techniques;
 - Mise en place de nouvelles pratiques et outils: ADR, RFC, technical sprints, Architecture Hexagonale ...;
 
+#### A propos de Chronotruck
+
+> [Chronotruck](https://chronotruck.com) est acteur du transport et de la logistique mettant en relation transporteurs et expéditeur grace à une plateforme simple et intuitive ainsi qu'à l’intelligence artificielle. Acquis en 2019 par [Gefco](https://www.gefco.net/fr/a-propos-de-gefco/decouvrir/groupe/), aujourd’hui membre de [CMA CGM](https://www.cma-cgm.com/about/the-group) via sa filiale [CEVA Logistics](https://www.cevalogistics.com/fr), Chronotruck représente le fer de lance de la transformation digital du groupe.
+
+
 ---
 
-### *dgBirds - Groupe Air France KLM*
-> [dgBirds](https://www.dgbirds.com) est une startup du groupe [Air France KLM](https://www.airfranceklm.com/fr/groupe) commercialisant une solution SaaS de gestion et de distribution documentaire (GED) à destination des pilotes, des compagnies aériennes et des industries du transport.
-#### CTO consultant
-_Juin 2017 - Avril 2019_
+### CTO consultant  -  *dgBirds (Groupe Air France KLM)*
+*Juin 2017 - Avril 2019*
 
 Management d’une équipe de 5 personnes :
 - Organisation des recrutements:recherche, entretiens d’embauche, évaluation des candidats et onboarding;
@@ -69,13 +69,13 @@ Représentation de l’entreprise :
 - Accompagnement des équipes techniques lors de la migration et de l’installation des services;
 - Assistance technique et support;
 
+#### A propos de dgBirds
+> [dgBirds](https://www.dgbirds.com) est une startup du groupe [Air France KLM](https://www.airfranceklm.com/fr/groupe) commercialisant une solution SaaS de gestion et de distribution documentaire (GED) à destination des pilotes, des compagnies aériennes et des industries du transport.
+
 ---
 
-### *AdopteUnMec - GEB AdoptAGuy*
-
-> [AdopteUnMec.com](https://www.adopteunmec.com/) est un site de rencontre comptant plus de 12 millions d’inscrits en France et present dans 11 pays en Europe et en Amérique Latine.
-#### Head of Data
-_Juin 2013 - Juin 2017_
+### Head of Data  -  *AdopteUnMec (GEB AdoptAGuy)*
+*Juin 2013 - Juin 2017*
 
 Management d’une équipe de 2 personnes (développeur, data scientist).
 
@@ -92,8 +92,8 @@ Développement de l’entreprise à l’international :
 - Tarification des offres;
 - Optimisation des campagnes publicitaires TV et digitale;
 
-#### Software Engineer - AdopteUnMec
-_Juil 2011 - Juin 2013_
+### Software Engineer  -  *AdopteUnMec (GEB AdoptAGuy)*
+*Juil 2011 - Juin 2013*
 
 Développement de la plateforme (PHP):
 - messagerie entre utilisateurs à haute scalabilité,
@@ -101,17 +101,22 @@ Développement de la plateforme (PHP):
 - back-office interne,
 - système de modération des contenus
 
+#### A propos d'AdopteUnMec
+
+> [AdopteUnMec.com](https://www.adopteunmec.com/) est un site de rencontre comptant plus de 12 millions d’inscrits en France et present dans 11 pays en Europe et en Amérique Latine.
+
 ---
 
-### *MassagePrivé.com*
-
-> Plateforme de mise en relation de professionnels et de particuliers pour la réservation de massages et de soins bien-être.
-#### CEO, CTO & Co-Founder
-_Sept 2013 - Août 2015_
+### CEO, CTO & Co-Founder  -  *MassagePrivé.com*
+*Sept 2013 - Août 2015*
 
 Constitution légale et administration de l'entreprise.
 Conception et développement de la plateforme et de l'infrastructure MassagePrivée.com (PHP, Symfony, MySQL).
 Prospection de clients et de partenaires.
+
+#### A propos de MassagePrive.com
+
+> Plateforme de mise en relation de professionnels et de particuliers pour la réservation de massages et de soins bien-être.
 
 ---
 
