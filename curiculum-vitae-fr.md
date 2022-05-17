@@ -5,8 +5,8 @@
 
 ## Profil
 
-Depuis plus de 10 je développe des plateformes et infrastructures pour les applications web et mobile.
-Mes différentes expériences: en startup ou pour des grands groupes, orienté B2B ou B2C, à fort traffic ou à haute disponibilité m'ont permis d’acquérir un large spectre de competences et une vision véritablement transversale.
+Depuis plus de 10 ans je développe des plateformes et infrastructures pour les applications web et mobile.
+Mes différentes expériences: en startup ou pour des grands groupes, orienté B2B ou B2C, à fort traffic ou à haute disponibilité m'ont permis d’acquérir un large spectre de compétences et une vision véritablement transversale.
 
 ### Contact
 
@@ -24,21 +24,21 @@ Mes différentes expériences: en startup ou pour des grands groupes, orienté B
 
 Management d'une équipe de 6 personnes :
 
-- instauration de méthodes managériales : servent management, entretien réguliers, etc ...
-- mentoring individuel et collectif : suivi et objectifs personnels, roadmap individuel, 20% temps libre
-- recrutement : test technique, cultural feat, onboarding
+- instauration de méthodes managériales : servant leadership, 1-on-1, etc ...
+- mentoring individuel et collectif : suivi et objectifs personnels, roadmap individuelles, 20% temps libre
+- recrutement : test technique, cultural fit, onboarding
 
 Gestion des infrastructures et de la production :
 
 - mise en place d'outils de monitoring et d'alerting (Datadog);
 - migration des applications vers des conteneurs;
-- améliorations et accélération des processus d'intégration continue et de déploiement;
+- amélioration et accélération des processus d'intégration et de déploiement continu;
 - évolution des systèmes existant vers de l'infrastructure as code;
 
 Organisation du travail:
 
 - Création des roadmap technique et infrastructure;
-- Gestion projet en lien avec le groupe et des prestataires externe;
+- Gestion projet en lien avec le groupe et les prestataires externes;
 - Accompagnement des équipes de développement quant aux choix techniques et architecturaux;
 - Mise en place de nouvelles pratiques et outils: ADR, RFC, technical sprints, Architecture Hexagonale ...;
 
@@ -54,7 +54,7 @@ Organisation du travail:
 
 Management d’une équipe de 5 personnes :
 
-- Organisation des recrutements:recherche, entretiens d’embauche, évaluation des candidats et onboarding;
+- Organisation des recrutements : recherche, entretiens d’embauche, évaluation des candidats et onboarding;
 - Mise en place de procédés Agile, d’outils de gestion de projet et d’historisation des connaissances;
 - Création de standards de développement;
 - Instauration d’outils de tests automatisés et d’intégration continue (CI/CD);
@@ -74,7 +74,7 @@ Développement de la plateforme :
 Administration de l’infrastructure et de la production :
 
 - Déploiement via des conteneurs (Docker, AWS Fargate);
-- Installation d’une infrastructure a haute disponibilité (Multi-AZ, Réplication, auto-scalling);
+- Installation d’une infrastructure à haute disponibilité (Multi-AZ, Réplication, auto-scaling);
 - Automatisation de l’infrastructure : Infrastructure As Code (Terraform);
 
 Représentation de l’entreprise :
@@ -98,10 +98,10 @@ Management d’une équipe de 2 personnes (développeur, data scientist).
 Création et développement du pole data / business intelligence :
 
 - Déploiement d’un système de collecte et d’analyse des données distribuée (Python, Celery);
-- Constitution d’un entrepôt de donnée;
+- Constitution d’un entrepôt de données;
 - Mise en place de solutions de visualisation (ElasticSearch, Kibana);
 - Conception d’outils de reporting : segmentation utilisateurs, campagnes acquisition web et TV;
-- Analyse de données pour le compte de client interne;
+- Analyse de données pour le compte de clients internes;
 
 Développement de l’entreprise à l’international :
 
@@ -146,17 +146,17 @@ Prospection de clients et de partenaires.
 ### Techniques
 
 - Développement d'applications et de plateformes web
-- Creation d'architectures logiciels scalables
-- Administration de systems et serveurs *NIX
+- Creation d'architectures logicielles scalables
+- Administration de systèmes et serveurs *NIX
 - Déploiement d’infrastructures Cloud à haute disponibilité
-- Conception de models de données relationnelles
+- Conception de modèles de données
 - Diffusion, stockage et mise à disposition de pipelines de données
 
 ### Managériales & organisationnelles
 
 - Organisation des équipes et du travail en amélioration continue
 - Utilisation des méthodes DevOps
-- Servent Leadership et culture du feedback
+- Servant Leadership et culture du feedback
 
 ### Générales
 
