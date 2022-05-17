@@ -1,5 +1,7 @@
 
-# Xavier Péchot
+# **Xavier Péchot**
+
+# *CTO & Principal Engineer*
 
 ![photo de profil](https://cdn.filestackcontent.com/ApSL9HZDXQFeLkhQqoOgxz/resize=width:200/cache=expiry:max/compress/https://github.com/xavierp/curriculum-vitae/raw/main/asset/profile.png "Photo de profil")
 
