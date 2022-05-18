@@ -1,0 +1,188 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Xavier Péchot",
+    "label": "CTO & Principal Engineer",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Depuis plus de 10 ans je développe des plateformes et infrastructures pour les applications web et mobile. Mes différentes expériences: en startup ou pour des grands groupes, orienté B2B ou B2C, à fort traffic ou à haute disponibilité m'ont permis d’acquérir un large spectre de compétences et une vision véritablement transversale.",
+    "location": {
+      "postalCode": "75002",
+      "city": "Paris",
+      "countryCode": "Fr"
+    },
+    "profiles": [
+      {
+        "network": "Github",
+        "username": "xavierp",
+        "url": "https://github.com/xavierp"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "Xavier Péchot",
+        "url": "https://www.linkedin.com/in/xavierpechot/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Chronotruck (Groupe Gefco / CMA CGM)",
+      "location": "Paris, France",
+      "description": "Chronotruck est acteur du transport et de la logistique mettant en relation transporteurs et expéditeur grace à une plateforme simple et intuitive ainsi qu'à l’intelligence artificielle. Acquis en 2019 par Gefco, aujourd’hui membre de CMA CGM via sa filiale CEVA Logistics, Chronotruck représente le fer de lance de la transformation digital du groupe.",
+      "position": "VP of Engineering",
+      "url": "https://chronotruck.com",
+      "startDate": "2020-09-01",
+      "endDate": "2022-08-01",
+      "summary": "Management d'une équipe de 6 personnes, gestion des infrastructures et de la production",
+      "highlights": [
+        "Instauration de méthodes managériales : servant leadership, 1-on-1, etc ...",
+        "Mentoring individuel et collectif : suivi et objectifs personnels, roadmap individuelles, 20% temps libre",
+        "Recrutement : test technique, cultural fit, onboarding",
+        "Mise en place d'outils de monitoring et d'alerting (Datadog)",
+        "Migration des applications vers des conteneurs",
+        "Amélioration et accélération des processus d'intégration et de déploiement continu",
+        "Évolution des systèmes existant vers de l'infrastructure as code",
+        "Création des roadmap technique et infrastructure",
+        "Gestion projet en lien avec le groupe et les prestataires externes",
+        "Accompagnement des équipes de développement quant aux choix techniques et architecturaux",
+        "Mise en place de nouvelles pratiques et outils: ADR, RFC, technical sprints, Architecture Hexagonale ..."
+      ]
+    },
+    {
+      "name": "dgBirds (Groupe Air France KLM)",
+      "location": "Paris, France",
+      "description": "dgBirds est une startup du groupe Air France KLM commercialisant une solution SaaS de gestion et de distribution documentaire (GED) à destination des pilotes, des compagnies aériennes et des industries du transport",
+      "position": "CTO consultant",
+      "url": "https://www.dgbirds.com",
+      "startDate": "2017-06-01",
+      "endDate": "2019-06-01",
+      "summary": "Management d’une équipe de 5 personnes, Pilotage du développement, Développement de la plateforme, Administration de l’infrastructure et de la production, Représentation de l’entreprise",
+      "highlights": [
+        "Organisation des recrutements : recherche, entretiens d’embauche, évaluation des candidats et onboarding",
+        "Mise en place de procédés Agile, d’outils de gestion de projet et d’historisation des connaissances",
+        "Création de standards de développement",
+        "Instauration d’outils de tests automatisés et d’intégration continue (CI/CD)",
+        "Rédaction des spécifications techniques",
+        "Développement de nouvelles fonctionnalités",
+        "Gestion des besoins spécifiques des clients (VPN, IPsec, LDAP, etc ...)",
+        "Re-factorisation et optimisation des fonctionnalités existantes",
+        "Création et développement de la plateforme SaaS pour le web et les applications mobiles (PHP, Symfony, MySQL)",
+        "Déploiement d’infrastructures et mise en place d’environnements de développement et de préproduction (AWS EC2, RDS, Ansible)",
+        "Déploiement via des conteneurs (Docker, AWS Fargate)",
+        "Installation d’une infrastructure à haute disponibilité (Multi-AZ, Réplication, auto-scaling)",
+        "Automatisation de l’infrastructure : Infrastructure As Code (Terraform)",
+        "Rencontre clients lors de la prospection",
+        "Accompagnement des équipes techniques lors de la migration et de l’installation des services",
+        "Assistance technique et support"
+      ]
+    },
+    {
+      "name": "AdopteUnMec (GEB AdoptAGuy)",
+      "location": "Paris, France",
+      "description": "AdopteUnMec.com est un site de rencontre comptant plus de 12 millions d’inscrits en France et present dans 11 pays en Europe et en Amérique Latine",
+      "position": "Head of Data",
+      "url": "https://adopteunmec.com",
+      "startDate": "2013-06-01",
+      "endDate": "2017-06-01",
+      "summary": "Management d’une équipe de 2 personnes (développeur, data scientist), Création et développement du pole data / business intelligence, Développement de l’entreprise à l’international",
+      "highlights": [
+        "Déploiement d’un système de collecte et d’analyse des données distribuée (Python, Celery)",
+        "Constitution d’un entrepôt de données",
+        "Mise en place de solutions de visualisation (ElasticSearch, Kibana)",
+        "Conception d’outils de reporting : segmentation utilisateurs, campagnes acquisition web et TV",
+        "Analyse de données pour le compte de clients internes",
+        "Lancement dans 11 pays en Europe et Amérique Latine",
+        "Rédaction des business plan",
+        "Tarification des offres",
+        "Optimisation des campagnes publicitaires TV et digitale"
+      ]
+    },
+    {
+      "name": "AdopteUnMec (GEB AdoptAGuy)",
+      "location": "Paris, France",
+      "description": "AdopteUnMec.com est un site de rencontre comptant plus de 12 millions d’inscrits en France et present dans 11 pays en Europe et en Amérique Latine",
+
+      "position": "Software Engineer",
+      "url": "https://adopteunmec.com",
+      "startDate": "2011-06-01",
+      "endDate": "2013-06-01",
+      "summary": "Développement de la plateforme en PHP",
+      "highlights": [
+        "messagerie entre utilisateurs à haute scalabilité",
+        "systèmes de paiements CB, SEPA et micropaiement",
+        "back-office interne",
+        "système de modération des contenu"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Master",
+      "keywords": ["HTML", "CSS", "Javascript"]
+    },
+    {
+      "name": "Compression",
+      "level": "Master",
+      "keywords": ["Mpeg", "MP4", "GIF"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Français",
+      "fluency": "Natif"
+    },
+    {
+      "language": "Anglais",
+      "fluency": "Courant"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Sport",
+      "keywords": [
+        "Ski & free ski",
+        "Escalade",
+        "Boxe française",
+        "Plongée sous marine (FFESSM niv. 1)",
+        "Nautisme (permis de plaisance option côtière et extension hauturière)"
+      ]
+    },
+    {
+      "name": "Musique",
+      "keywords": ["MAO", "Piano"]
+    },
+    {
+      "name": "Cuisine"
+    },
+    {
+      "name": "Électronique"
+    },
+    {
+      "name": "Jeux vidéos et de plateaux"
+    }
+  ],
+  "projects": [
+    {
+      "name": "MassagePrivé.com",
+      "description": "Plateforme de mise en relation de professionnels et de particuliers pour la réservation de massages et de soins bien-être",
+      "highlights": [
+        "Constitution légale et administration de l'entreprise",
+        "Conception et développement de la plateforme et de l'infrastructure MassagePrivée.com (PHP, Symfony, MySQL)",
+        "Prospection de clients et de partenaires"
+      ],
+      "startDate": "2013-09-01",
+      "endDate": "2015-08-01",
+      "roles": ["Co-Founder", "CEO", "CTO"],
+      "entity": "MassagePrive.com",
+      "type": "Entreprenariat"
+    }
+  ],
+  "meta": {
+    "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
+    "version": "v1.0.0",
+    "lastModified": "2017-12-24T15:53:00"
+  }
+}
